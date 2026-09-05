@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@privy-io/react-auth": "^3.40.0",
+    "@privy-io/server-auth": "^1.32.5",
     "next": "16.3.4",
     "react": "19.2.8",
     "react-dom": "19.2.8"
